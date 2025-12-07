@@ -53,5 +53,6 @@ img {
     margin-right: auto;
 }
 .goHome {
-    border: 1px groove gray;
+    border: 1px groove grey;
+    color: orange;
 }
