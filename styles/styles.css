@@ -1,0 +1,57 @@
+.background {
+    background-color: black;
+}
+
+.headOne, .headTwo, .headThree, .unorderList a{
+    font-family: "Times New Roman", Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 100px;
+    margin-bottom: 40px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.headOne, .headTwo, .headThree {
+    text-decoration: underline;
+}
+
+.headTwo, .headThree {
+    text-align: left;
+}
+
+.headThree, li {
+    color: white;
+}
+
+p {
+    color: white;
+    text-align: justify;
+}
+
+.unorderList li {
+    margin-left: 700px;
+    margin-bottom: 20px;
+    border: 1px solid wheat;
+    width: 400px;
+    padding:20px;
+    text-align: center;
+    background-color: rgb(165, 161, 161);
+}
+a {
+      text-decoration: none;
+}
+.burritoHead {
+    color: black;
+}
+.burritoList li {
+    color: white;
+}
+img {
+    height: auto;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.goHome {
+    border: 1px groove gray;
+}
