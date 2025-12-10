@@ -1,6 +1,6 @@
 Introduction
 
-This project involves building a recipe website, allowing to showcase my web development abiliies and delve into the world of delicious dishes. It serves up a fresh recipe wesite, combining my love for food with my web development skills. 
+This project involves building a recipe website, allowing to showcase my web development abiliies and delve into the world of delicious dishes. It serves up a fresh recipe website, combining my love for food with my web development skills. 
 Buckle up and enjoy!
 
 It design and build a visually appealing and user-friendly recipe wesite from scratch. Implement features like selecting desired recipes, browsing by categories, and viewing detailed instructions.
